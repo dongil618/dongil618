@@ -7,7 +7,8 @@
 - 어떠한 **가치**를 창출할 수 있을까를 고민하는 개발자
 
 ## CONTACT & CHANNEL
-- **E-mail**  ehddlf618@gmail.com
+- **E-mail** : ehddlf618@gmail.com
+- **Notion-Resume** : https://comclothing.notion.site/ABOUT-ME-a658ef58f6cd4bf783b8e210fa8feae4
 - **Blog**
     - **Tistory** : [https://comclothing.tistory.com/](https://comclothing.tistory.com/)
     - <img src="https://user-images.githubusercontent.com/47559613/176713876-510bbdfd-e572-4462-8263-d42a42529442.svg" width="20"> : [https://velog.io/@do_ng_iill](https://velog.io/@do_ng_iill)
