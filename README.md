@@ -44,6 +44,7 @@
 <br><br>
 
 ![Dongil618's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongil618&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongil618&layout=compact&theme=palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
