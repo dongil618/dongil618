@@ -11,18 +11,18 @@
 
 ## Skill
 ### Language
-- **Java**
-- **Python**
+![Java8](https://img.shields.io/badge/java-version%208-blue?style=plastic) ![Java11](https://img.shields.io/badge/java-version%2011-blue?style=plastic)
+![Python](https://img.shields.io/badge/python-3.6.5-blue?style=plastic)
 
 ### Framework
-- **Spring Boot**
+![Spring Boot](https://img.shields.io/badge/springboot-2.6.10-blue?style=plastic&logo=springboot)
 
 ### Database
-- **MySQL**
+![MySQL](https://img.shields.io/badge/mysql-8.0.28-blue?style=plastic&logo=mysql&logoColor=white)
 
 ### Infra
-- **EC2**
-- **RDS**
+![EC2](https://img.shields.io/badge/aws-EC2-blue?style=plastic&logo=amazonec2)
+![RDS](https://img.shields.io/badge/aws-RDS-blue?style=plastic&logo=amazonrds)
 
 <br><br>
 
